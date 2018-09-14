@@ -1,0 +1,458 @@
+{
+    "articles": {
+        "0": {
+            "url":
+                "https://openspace.sfmoma.org/2016/02/how-to-know-things-in-distributed-crowds/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/02/28155411/nagler2.jpg",
+            "author": "Christian Nagler",
+            "excerpt":
+                "You are some sort of social engineer, or behavioral economist, or managerial scientist, or institutional ethnographer, or workflow dynamics consultant...",
+            "title": "How to Know Things in Distributed Crowds"
+        },
+        "1": {
+            "url": "https://openspace.sfmoma.org/2015/03/other-half-orbit-2/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/05/01145914/up3.jpg",
+            "author": "unexpected projects",
+            "excerpt":
+                "We met with Ingrid Rojas Contreras and Jeremiah Barber in the gallery of their current joint exhibition Lo real maravilloso at Mission Cultural Center to talk about their ongoing collaboration. Ingrid identifies primarily as a writer and Jeremiah as a visual artist; however, their connection and collaboration of more than a decade blurs boundaries between words and images.",
+            "title": "Other Half Orbit"
+        },
+        "2": {
+            "url":
+                "https://openspace.sfmoma.org/2016/10/making-it-live-dena-beard-and-connie-lewallen-in-conversation/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/10/28151605/Ant-Farm_Installation_1.jpg",
+            "author": "Dena Beard + Connie Lewallen",
+            "excerpt":
+                "I kind of fell in love with the generation of artists who I worked with. I was fortunate to be in the right place at the right time.",
+            "title":
+                "Make It Live: Dena Beard and Constance M. Lewallen in Conversation"
+        },
+        "3": {
+            "url":
+                "https://openspace.sfmoma.org/2016/01/one-on-one-grace-ambrose-on-martin-kippenberger/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/01/21180057/kippenberger1.jpg",
+            "author": "Grace Ambrose",
+            "excerpt":
+                "The English language owes many of its conventions to the German one, but we unfortunately did not inherit the Deutsch proclivity for compound words \u2014 the ability to name something or someone or some action with incredible specificity, no spaces required.",
+            "title": "Grace Ambrose on Martin Kippenberger"
+        },
+        "4": {
+            "url":
+                "https://openspace.sfmoma.org/2015/06/darkness-at-the-edge-of-town-steve-polta-on-lewis-baltz/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/05/Baltz_1-600x404.jpg",
+            "author": "Steve Polta",
+            "excerpt":
+                "Lewis Baltz (b. Newport Beach CA 1945; d. Paris, 2014) In their totality, the series and surveys of photographer Lewis...",
+            "title": "Darkness at the Edge of Town: Steve Polta on Lewis Baltz"
+        },
+        "5": {
+            "url":
+                "https://openspace.sfmoma.org/2016/10/te-aprecio-the-yay-area/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/10/25095202/MGSF1_29Masonic_SM.jpg",
+            "author": "Melissa S\u00e1enz Gordon",
+            "excerpt":
+                "The little city by the bay. Home to the Irish coffee and the fortune cookie. Where summer exists in September, bicycles rule the streets, and the best views of the city can be found by riding the bus (the 33-Stanyan to be exact).",
+            "title": "Te Aprecio: The Yay Area"
+        },
+        "6": {
+            "url":
+                "https://openspace.sfmoma.org/2015/10/3-9collective-responds/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/10/14135355/OpenSpace-3.9Collective-On-Ownership.jpg",
+            "author": "3.9 Art Collective",
+            "excerpt":
+                "The 3.9 Art Collective is an association of African American artists, curators, and art writers who live in San Francisco, and who came together to draw attention to the city\u2019s dwindling black population. The 3.9 Art Collective bears witness to this phenomenon and seeks to reverse it by drawing attention to the historical and ongoing presence of black artists in the city and creative expression in its black communities.",
+            "title":
+                "On San Francisco and Ownership: The 3.9 Art Collective Responds"
+        },
+        "7": {
+            "url":
+                "https://openspace.sfmoma.org/2015/05/on-being-hated-conceptualism-the-mongrel-coalition-the-house-that-built-me/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/05/fambly-600x450.jpg",
+            "author": "Trisha Low",
+            "excerpt":
+                "Sometimes when your loves are conflicting, being-hated by both sides is painful and comes at the cost of everything. But always, I would rather deal in pain.",
+            "title":
+                "On Being-Hated: Conceptualism, the Mongrel Coalition, the House That Built Me."
+        },
+        "8": {
+            "url": "https://openspace.sfmoma.org/2018/06/mundane-travels/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/06/13142503/The-Prisoner.jpg",
+            "author": "Momtaza Mehri",
+            "excerpt":
+                "Non-linearity can be a site of both destruction and regeneration. The breaks away and from our communities can be torturous to endure. But the time traveler doesn\u2019t have to be a lone observer.",
+            "title": "Mundane Travels"
+        },
+        "9": {
+            "url":
+                "https://openspace.sfmoma.org/2017/02/our-own-aids-time-keith-hennessy-and-ishmael-houston-jones-in-conversation/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/02/07101245/ISH_ALTAR_1.jpg",
+            "author": "Ishmael Houston-Jones + Keith Hennessy",
+            "excerpt":
+                "I have never really separated artistic practice from activist work. I can see the difference between, say a protest, and a performance that starts at eight o\u2019clock but my work has always been talking to and talking with and talking from the social movements of the era that the work is being made in.",
+            "title":
+                "Our Own AIDS Time: Keith Hennessy and Ishmael Houston-Jones in Conversation"
+        },
+        "10": {
+            "url": "https://openspace.sfmoma.org/2018/02/body-to-body/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/02/29102645/16-Red-Shoes.jpg",
+            "author": "Siobhan Burke",
+            "excerpt":
+                "What does a dance lineage look like? I\u2019ve often wanted to make a map tracing who mentored and influenced and studied with whom, to make some sense of the present \u2014 not to impose order on dance history, but to do justice to its sprawl. Where do generations begin and end? What little-known links connect them? How does one movement become another?",
+            "title": "Body to Body"
+        },
+        "11": {
+            "url":
+                "https://openspace.sfmoma.org/2017/07/towards-an-empathetic-art-ana-fox-hodess-in-conversation-with-francisco-papas-fritas/",
+            "img_url": "",
+            "author": "Ana Fox-Hodess + Francisco Papas Fritas",
+            "excerpt": "",
+            "title":
+                "Toward an Empathetic Art: A conversation with Francisco Papas Fritas"
+        },
+        "12": {
+            "url":
+                "https://openspace.sfmoma.org/2017/03/investing-in-the-underground/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/03/21095313/Room.jpg",
+            "author": "Grace Ambrose",
+            "excerpt":
+                "Is it even possible to be fairly compensated for the repackaging of our genius and joy and rage? The ethics of work are tied up in much more than compensation; laborers of all kinds have long rejected paid yet unethical arrangements, even in the face of omnipresent and oppressive capital. The idea that we have to compromise is a myth, one that corporate media relies on us to believe.",
+            "title": "Investing in the Underground"
+        },
+        "13": {
+            "url": "https://openspace.sfmoma.org/2015/12/grandmas-house/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/11/25190713/29713961.2LightningBoltGrandmasHouse10102003_1.jpg",
+            "author": "George Chen",
+            "excerpt":
+                "Grandma\u2019s events were some of the most powerful, shocking, sexual, mesmerizing, hypnotic, ridiculous, terrible, pointless, fantastic\u2026 all at the same time.",
+            "title": "Grandma's House"
+        },
+        "14": {
+            "url":
+                "https://openspace.sfmoma.org/2017/01/a-conversation-with-james-fleming-kelly-lovemonster-and-boychild/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/01/03095700/touchon_opening_web.jpg",
+            "author":
+                "Claudia La Rocco, boychild, Kelly Lovemonster + James Fleming",
+            "excerpt":
+                "A conversation about lineage, loss, and the politics of action and expression.",
+            "title":
+                "Redefining Touch: A Conversation with James Fleming, Kelly Lovemonster, and boychild"
+        },
+        "15": {
+            "url":
+                "https://openspace.sfmoma.org/2016/11/extreme-present-a-conversation-with-caconrad/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/11/03113856/1A-CAConrad88-photo-by-Dogface-Studios-of-Olympia.jpg",
+            "author": "CAConrad + Ross Simonini",
+            "excerpt":
+                "I\u2019m living inside of an extreme present that I\u2019ve created in order to write. It has completely saturated my entire life at this point. My decisions that I make more and more have become about the present.",
+            "title": "Extreme Present: A Conversation with CAConrad"
+        },
+        "16": {
+            "url":
+                "https://openspace.sfmoma.org/2018/06/there-are-many-forms-of-power-they-whom-know-to-trust/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/06/27093336/self-connection1.jpg",
+            "author": "Jade Ariana",
+            "excerpt": "",
+            "title": "There Are Many Forms of Power (they whom know to trust)"
+        },
+        "17": {
+            "url":
+                "https://openspace.sfmoma.org/2018/05/genre-wormhole-2-the-goddess-of-no-no-no-y-no-no-no-no-y-no-no-no-no/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/05/28111501/Gun-in-Basket-700x668.jpg",
+            "author": "Lauren Levin",
+            "excerpt":
+                "One vision or version of a whole can also challenge another.",
+            "title":
+                "Genre Wormhole #2: the goddess of no no no y no no no no y no no no no"
+        },
+        "18": {
+            "url":
+                "https://openspace.sfmoma.org/2015/05/power-equals-secret-pockets/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2015/05/portrait-Gach-sm2.305.jpg",
+            "author": "unexpected projects + Aaron Gach",
+            "excerpt":
+                "I am fascinated by transitional spaces and who can stake a claim. I thought of my work as about power. And at a school that\u2019s in transition, everything is up for grabs.",
+            "title": "Power Equals Secret Pockets"
+        },
+        "19": {
+            "url":
+                "https://openspace.sfmoma.org/2017/02/agnes-martins-world-facing-grid/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/02/15135804/martin_1.jpg",
+            "author": "Caroline Tracey",
+            "excerpt":
+                "The grid is made out to be a statement of autonomy \u2014 of resistance to any tether to the world \u2014 as well as a climax, because what could follow the grid? What could further abstract from the Cartesian plane?",
+            "title": "Agnes Martin's World-Facing Grid"
+        },
+        "20": {
+            "url":
+                "https://openspace.sfmoma.org/2016/04/disembodied-states-weaving-through-agnes-martin/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/04/01143550/FCAPONE-Untitled-7.jpg",
+            "author": "Francesca Capone",
+            "excerpt":
+                "There are two parts of the mind. The outer mind that records facts and the inner mind that says \u201cyes\u201d and \u201cno.\u201d When you think of something that you should do, the inner mind says \u201cyes\u201d and you feel elated. We call this inspiration.",
+            "title": "Disembodied States: Weaving Through Agnes Martin"
+        },
+        "21": {
+            "url":
+                "https://openspace.sfmoma.org/2009/07/what-we-leave-behind-new-narratives-in-a-queer-archive/",
+            "img_url":
+                "http://farm4.static.flickr.com/3654/3703487244_694a22f4ed.jpg",
+            "author": "Adrienne Skye Roberts",
+            "excerpt":
+                "There was something affirming about sharing space with an older queer community; a group of people whose own experience of gender and sexuality was informed by a social and political context entirely different than today, people whose struggles and contributions paved the way for today\u2019s generation of queer artists and activists.",
+            "title": "What We Leave Behind: New narrative in a queer archive"
+        },
+        "22": {
+            "url":
+                "https://openspace.sfmoma.org/2008/08/draft-anyone-seen-a-bison-head-lying-around/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2008/04/dada001a.jpg",
+            "author": "The Archivists",
+            "excerpt":
+                "In an attempt to upstage a donation by Harry W. and Mary Margaret Anderson of paintings by Robert Rauschenberg and Jasper Johns, the Bay Area Dadaists gave the Museum an \u201ceven more lavish gift,\u201d in the form of \u201cBertha Buffalo\u201d \u2013 a bison head with a Dada treatise in its mouth.",
+            "title": "Anyone seen a bison head lying around?"
+        },
+        "23": {
+            "url":
+                "https://openspace.sfmoma.org/2018/01/walking-in-los-angeles/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/01/14142012/Hernandez1.jpg",
+            "author": "Ismail Muhammad",
+            "excerpt":
+                "Today, the city finds itself at a moment when its current form \u2014 a low-density jumble of single-family residences, parking lots, artificial shopping villages, and freeways \u2014 is failing its residents.",
+            "title": "Walking in Los Angeles"
+        },
+        "24": {
+            "url": "https://openspace.sfmoma.org/2018/04/berkeley-blooms/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/04/05100154/freesias_web.jpg",
+            "author": "Ruth Gebreyesus",
+            "excerpt":
+                "The beauty of freesias is noteworthy, but their scent is divine. They smell like the perfect flower \u2014 a mulled sweetness, freed of artifice by a hint of clean and wet soil.",
+            "title": "Berkeley Blooms"
+        },
+        "25": {
+            "url":
+                "https://openspace.sfmoma.org/2016/05/disembodied-states-walking-the-magic-square/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/05/02132511/Number1Edit.jpg",
+            "author": "Angela Ellsworth with the Museum of Walking",
+            "excerpt":
+                "By focusing on the everyday activity of walking and addressing its larger role within art, history, literature, culture, and place, MoW embodies the emotionally, physically, politically, and socially charged action of moving through space, while addressing larger issues surrounding sustainable lifestyles in physically and ecologically challenged places.",
+            "title": "Disembodied States: Walking the Magic Square"
+        },
+        "26": {
+            "url":
+                "https://openspace.sfmoma.org/2016/04/wave-at-the-people-walking-upside-down/",
+            "img_url": "",
+            "author": "Tongo Eisen-Martin",
+            "excerpt": "I am off to make a church bell out of a bank window",
+            "title": "Wave At The People Walking Upside Down"
+        },
+        "27": {
+            "url":
+                "https://openspace.sfmoma.org/2016/10/why-we-got-wage-certified/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/10/26151951/womanifesto-Poster.jpg",
+            "author": "Claudia La Rocco",
+            "excerpt":
+                "Those of us commissioning work must not operate from a sense of resource scarcity that, often, simply camouflages over-production.",
+            "title": "Why We Got W.A.G.E. Certified"
+        },
+        "28": {
+            "url":
+                "https://openspace.sfmoma.org/2011/03/survival-through-touching/",
+            "img_url":
+                "http://sfmomaopenspace.s3-us-west-2.amazonaws.com/wp-content/uploads/2011/03/fencedpalms2-600x450.jpg",
+            "author": "Rick Prelinger",
+            "excerpt":
+                "There\u2019s a dramatic discrepancy between how much of the historical record is extant and how much of it is actually used.",
+            "title": "Survival Through Touching"
+        },
+        "29": {
+            "url": "https://openspace.sfmoma.org/2016/02/helen-molesworth/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/02/16180233/eyeballtorso.gif",
+            "author": "grupa o.k. + Helen Molesworth",
+            "excerpt":
+                "Since I arrived I\u2019d been wondering, what is a museum of contemporary art, what does \u201ccontemporary\u201d mean?",
+            "title": "In a room: Helen Molesworth on The Art of Our Time"
+        },
+        "30": {
+            "url":
+                "https://openspace.sfmoma.org/2017/06/not-your-mothers-theater-rhodessa-jones-and-the-medea-project/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/07/14110618/Rho-MP-2-25-17-rehearsal-Counterpulse-5.jpg",
+            "author": "Alexandra Pappas + Rhodessa Jones",
+            "excerpt":
+                "What are you doing with the time you have? What have I done with the time I have? What have we done with what we have done? Is that important? Will people want to hear that? Will it help somebody?",
+            "title":
+                "Not Your Mother's Theater: Rhodessa Jones and the Medea Project"
+        },
+        "31": {
+            "url":
+                "https://openspace.sfmoma.org/2017/03/this-horse-has-already-bolted/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/03/24131023/9-Is-A-Secret-2_web.jpg",
+            "author": "Margaret Tedesco",
+            "excerpt":
+                "1984 was the first time I heard of \u201cgay pneumonia.\u201d Charles Butts, friend and colleague in the dance company I worked with, left Santa Barbara with a simple cold for a two-week break to visit his friend, San Francisco choreographer Carlos Carvajal. He never returned. I received a call from one of the company members on the pay phone in the dance studio telling me he died.",
+            "title": "[ THIS ] HORSE HAS ALREADY BOLTED"
+        },
+        "32": {
+            "url": "https://openspace.sfmoma.org/2016/09/the-andor-gate/",
+            "img_url": "",
+            "author": "Amanda Nadelberg",
+            "excerpt":
+                "I kept saying time was a bowl. Marred against any will to lavenders I no longer needed to salute September to June as I was constantly counting on my fingers and home-drawn index cards the two-sided months, the microscopic prayers contained in measurable units of life, the muscles memorizing the sound of a Volvo engaging, an anemic ice cream truck trying the children\u2019s block at dinner\u2019s hour, the bottoms of my neighbor\u2019s feet, my sister\u2019s son\u2019s eighth birthday at one count sixty-three days away: a bowl. ",
+            "title": "The And/Or Gate"
+        },
+        "33": {
+            "url": "https://openspace.sfmoma.org/2013/05/notes-on-the-clock/",
+            "img_url": "",
+            "author": "Renny Pritikin",
+            "excerpt":
+                "Life happens when we are engaged and stops when we look at the clock.",
+            "title": "Notes on The Clock"
+        },
+        "34": {
+            "url":
+                "https://openspace.sfmoma.org/2016/09/notebooks-on-notebooks/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/09/06141129/1-11.jpg",
+            "author": "Jocelyn Saidenberg",
+            "excerpt":
+                "At last and finally the alphabet\u2019s letters are unburdened of their task to render what they imperfectly mark, a relief underscored by wild soundings of flowers and their friends. Meanwhile the letters still scratch on whatever surface with whatever\u2019s at hand.",
+            "title": "Notebooks on Notebooks"
+        },
+        "35": {
+            "url":
+                "https://openspace.sfmoma.org/2016/10/instructions-for-the-babysitter-1983/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/10/22131943/IMG_1715_sRGB-700x855.jpg",
+            "author": "Amanda Nadelberg",
+            "excerpt":
+                "Look at my mother\u2019s handwriting. Her name is Naomi. Sometimes I call her Nay.",
+            "title": "Instructions for the Babysitter, 1983"
+        },
+        "36": {
+            "url":
+                "https://openspace.sfmoma.org/2016/05/crying-on-camera-fourth-wave-feminism-and-the-threat-of-commodification/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2016/05/16105315/PC4.jpg",
+            "author": "Sarah Burke",
+            "excerpt":
+                "By explicitly and publicly \u201cfeelin\u2019 themselves,\u201d women could work to erode the oppressive notion that female confidence is narcissistic and arrogant; the key to unlocking empowerment, in other words, was online visibility.",
+            "title":
+                "Crying on Camera: 'fourth-wave feminism' and the threat of commodification"
+        },
+        "37": {
+            "url":
+                "https://openspace.sfmoma.org/2017/06/nuns-witches-and-teachers-part-2-women-work-better-in-networks-than-in-pyramids/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/06/06171033/Leonor-Esguerra-frente-700x542.png",
+            "author": "Juana Berr\u00edo",
+            "excerpt":
+                "In several interviews you\u2019ve given, you talk about your position as a feminist and mention that one thing Marx didn\u2019t talk about was patriarchy. With Marx, we tend to talk about capitalism, class differences, the exploitation of the disempowered, but where is patriarchy in all of this?",
+            "title":
+                "Nuns, Witches, and Teachers (Part 2: Women Work Better in Networks than in Pyramids)"
+        },
+        "38": {
+            "url":
+                "https://openspace.sfmoma.org/2018/05/timidity-troubles-the-witch-hunt/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/05/30113851/PH14.268.72_01_H02-Artsy_JPEG_4000_pixels_long.jpg",
+            "author": "Zo\u00e9 Samudzi",
+            "excerpt":
+                "Shyness and timidity are the domain of white women, real women, the only women universally capable of innocence and whose virtue is protected and enforced/reinforced as the race-gendered fulcrum around which the villainizing of Black and brown men (and by extension, the carceral economy) revolves.",
+            "title": "Timidity Trouble the Witch Hunt"
+        },
+        "39": {
+            "url":
+                "https://openspace.sfmoma.org/2018/06/remembering-new-narrative/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/06/12134323/GD_STANFORD_web.jpg",
+            "author": "Gabrielle Daniels",
+            "excerpt":
+                "I think that it was Zora Neale Hurston who wrote that women tend to recall the things that are important to them, and to forget the things that aren\u2019t. Like discerning what is treasure and what isn\u2019t.",
+            "title": "Remembering New Narrative"
+        },
+        "40": {
+            "url":
+                "https://openspace.sfmoma.org/2017/12/congratulations-youre-a-new-narrative-subject/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2017/12/20163022/4_web.jpg",
+            "author": "Maxe Crandall",
+            "excerpt":
+                "Is it possible to close the circuit between art and life so tight that another dimension shimmers on the horizon? One trick of New Narrative is to look so intensely at the beloved that you can write (into) yourself through a refracted gaze. New Narrative represents one of the great experiments with autobiography because it foregrounds the embodied circuitry of desire, damage, and influence. Its impetuous, gossipy, and experimental mode tracks how bodies touch up against each other and change.",
+            "title": "Congratulations, You're A New Narrative Subject"
+        },
+        "41": {
+            "url": "https://openspace.sfmoma.org/2018/03/art-wont-save-us/",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomaopenspace/wp-content/uploads/2018/03/15173639/kz6DrJKlsmall.jpg",
+            "author": "Anna Khachiyan",
+            "excerpt":
+                "Artists, of course, have always liked to think of themselves as rebels but, the truth is, as long as art remains a prestige economy of the free market \u2014 a glitzy barnacle on the side of global finance \u2014 it cannot be an effective tool for political change.",
+            "title": "Art Won't Save Us"
+        },
+        "42": {
+            "url": "https://www.arcade-museum.com/cheats.php",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomamedia/media/t/uploads/images/RUzkCq-FIwse.jpg",
+            "author": "Friday, July 20, 2018 @ 8:30PM",
+            "excerpt": "House Party",
+            "title": "House Party"
+        },
+        "43": {
+            "url": "https://www.arcade-museum.com/cheats.php",
+            "img_url":
+                "https://s3-us-west-2.amazonaws.com/sfmomamedia/media/t/uploads/images/OV3kIA8eOQwH.jpg",
+            "author": "Friday, July 20, 2018 @ noon",
+            "excerpt": "Deep Cuts: Julie Charles on Louise Bourgeois",
+            "title": "Deep Cuts: Julie Charles on Louise Bourgeois"
+        }
+    },
+    "tags": {
+        "Walking": ["23", "24", "25", "26"],
+        "Notebooks": ["34", "35"],
+        "Magic": ["18"],
+        "Exhibitions": ["0", "1", "2"],
+        "platform capitalism": ["41"],
+        "dance": ["9", "10"],
+        "Activism": ["11"],
+        "Time": ["32", "33"],
+        "Punk": ["12", "13"],
+        "Poetry": ["7", "8"],
+        "HIV/AIDS": ["30", "31"],
+        "museums": ["27", "28", "29"],
+        "collage": ["16", "17"],
+        "Easter Egg": ["42", "43"],
+        "One on One": ["3", "4"],
+        "Queer": ["14", "15"],
+        "San Francisco": ["5", "6"],
+        "Agnes Martin": ["19", "20"],
+        "New Narrative": ["39", "40"],
+        "Feminism": ["36", "37", "38"],
+        "Archives": ["21", "22"]
+    }
+}
