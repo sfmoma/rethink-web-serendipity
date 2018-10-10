@@ -1,72 +1,77 @@
 * {
-    margin: 0px;
-    padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 html,
 body {
-    height: 100%;
-    text-align: center;
-    font-family: courier;
+  height: 100%;
+  text-align: center;
+  font-family: courier;
 }
 
 #bg-container {
-    /* Full height */
-    height: 100%;
+  /* Full height */
+  height: 100%;
 
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
-    padding-top: 100px;
+  padding-top: 100px;
 }
 
 .fuzzy-container {
-    padding: 10px;
-    margin-left: 16px;
-    margin-right: 16px;
-    background-color: rgba(255, 255, 255, 0.75);
-    box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.75);
-    display: inline-block;
+  padding: 10px;
+  margin-left: 16px;
+  margin-right: 16px;
+  background-color: rgba(255, 255, 255, 0.75);
+  box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.75);
+  display: inline-block;
 }
 
 #title {
-    max-width: 400px;
+  max-width: 400px;
 }
 #author {
-    margin-top: 8px;
+  margin-top: 8px;
 }
 #excerpt {
-    margin-top: 20px;
-    max-width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+  margin-top: 20px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .btn {
-    background-color: white;
-    padding: 6px;
-    color: black;
-    border: 2px solid black;
-    text-decoration: none;
-    font-size: 85%;
-    margin-top: 20px;
+  background-color: white;
+  padding: 6px;
+  color: black;
+  border: 2px solid black;
+  text-decoration: none;
+  font-size: 85%;
+  margin-top: 20px;
 }
 
 #btns-container {
-    margin-top: 40px;
-    margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 .btn-container {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 a.link {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 a.link:hover,
 a.link:visited {
-    text-decoration: underline;
+  text-decoration: underline;
+}
+
+#footer {
+  margin-top: 40px;
+  font-size: 60%;
 }
