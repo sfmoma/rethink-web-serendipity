@@ -1,19 +1,38 @@
 $(function() {
     var data;
-    $.getJSON("data/cleaned_data.json", function(json) {
-        data = json;
+    var lidData;
 
+    $.getJSON("php/lid.txt", function(lidJSON) {
+        lidData = lidJSON;
+    });
+
+    $.getJSON("data/cleaned_data.json", function(json) {
+
+        data = json;
         var urlParams = new URLSearchParams(window.location.search);
-        var articleParam = urlParams.get("article");
+        var randomArticle = false;
+        if(urlParams.get("ra")) {
+            randomArticle = true;
+        }
+
         var articles = data.articles;
 
-        if (articles[articleParam]) {
-            var currentArticleId = articleParam;
-        } else {
+        if (lidData) {
+            var lid = lidData.lid;
+        }
+        else {
+            randomArticle = true;
+        }
+
+        if (randomArticle) {
             var randomIdx = Math.floor(
                 Math.random() * Object.keys(articles).length
             );
             var currentArticleId = randomIdx.toString();
+        }
+        else if (lid) {
+            $("#message-box").html("<p>The last person to visit this page left the following article for you to read.</p>");
+            var currentArticleId = lid;
         }
         var currentArticle = articles[currentArticleId];
 
@@ -35,15 +54,7 @@ $(function() {
             }
         }
 
-        var tagsHtml = "";
-        relatedTags.forEach(function(tagData) {
-            tagsHtml +=
-                "<div class='btn-container'><a class='btn' href='/index.html?article=" +
-                tagData.articleId +
-                "'>Related article - " +
-                tagData.tag +
-                "</a></div>";
-        });
+        var leaveHTML = "<a class='btn leave' href='#' data-leave-id='"+currentArticleId+"'>Leave</a>";
 
         $("#bg-container").css(
             "background-image",
@@ -59,7 +70,25 @@ $(function() {
         $("#author").html("<p>By " + currentArticle.author + "</p>");
         $("#excerpt").html("<p>" + currentArticle.excerpt + "</p>");
         $("#btns-container").html(
-            '<a class="btn" href="/index.html">Random article</a>' + tagsHtml
+            '<a class="btn random" href="/index.html?ra=1">Random</a>' + leaveHTML
         );
     });
+
+    // write the ID and timestamp to txt file
+    $(document).on("click", "a.leave", function() { 
+
+        var leaveID = $(this).data('leave-id');
+
+        $.post(
+            "php/handleLeave.php",
+            {
+                lid: leaveID
+            },
+            function(data, status) {
+                console.log("DATA: " + data + "\nStatus: " + status);
+            }
+        );
+    });
+
+
 });

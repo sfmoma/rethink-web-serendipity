@@ -11,17 +11,18 @@
     <meta property="og:type" content="website"></meta>
     <meta property="og:description" content=""></meta>
     <meta property="og:url" content=""></meta>
-    <meta property="og:image" content=""></meta>
+    <meta property="og:image" content="share-512x512.png"></meta>
 
     <meta name="twitter:card" content="summary_large_image"></meta>
     <meta name="twitter:site" content="@cthydng"></meta>
     <meta name="twitter:creator" content="@cthydng"></meta>
     <meta name="twitter:description" content=""></meta>
     <meta name="twitter:title" content="SERENDIPITY | Rethink:Web"></meta>
-    <meta name="twitter:url" content=""></meta>
-    <meta name="twitter:image:src" content=""></meta>
+    <meta name="twitter:image:src" content="share-512x512.png"></meta>
 
-    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -29,23 +30,29 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="/styles.css" rel="stylesheet" type="text/css" media="all">
+    <link href="styles.css" rel="stylesheet" type="text/css" media="all">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <script src="/content.js"></script>
+    <script src="content.js"></script>
 
   </head>
 
   <body>
       <div id="bg-container">
           <div class="fuzzy-container">
+              <div id="message-box"></div>
               <div id="title"></div>
               <div id="author"></div>
               <div id="excerpt"></div>
+              <hr>
+              <div id="desc">
+                <p>
+                  If you enjoyed the article you can choose "leave" for the next person to find. 
+                  You can read another article by choosing "random."
+                </p>
+              </div>
               <div id="btns-container"></div>
-              <div id="tags"></div>
-          </div>
-          <div id="footer">
-              <p>This prototype is part of the <a class="link" href="https://openspace.sfmoma.org/series/rethink-web/" target="_blank">Rethink:Web series on Open Space</a></p>
+              <hr>
+              <div id="tags"><p>This prototype is part of the <a class="link" href="https://openspace.sfmoma.org/series/rethink-web/" target="_blank">Rethink:Web series on Open Space</a></p></div>
           </div>
       </div>
   </body>
