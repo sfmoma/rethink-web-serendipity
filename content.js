@@ -70,7 +70,7 @@ $(function() {
         $("#author").html("<p>By " + currentArticle.author + "</p>");
         $("#excerpt").html("<p>" + currentArticle.excerpt + "</p>");
         $("#btns-container").html(
-            '<a class="btn random" href="/index.html?ra=1">Random</a>' + leaveHTML
+            '<a class="btn random" href="index.html?ra=1">Random</a>' + leaveHTML
         );
     });
 
