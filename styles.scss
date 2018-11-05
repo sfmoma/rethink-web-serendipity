@@ -8,7 +8,7 @@ body {
   height: 100%;
   text-align: center;
   font-family: courier;
-  overflow:hidden;
+  overflow: hidden;
 }
 
 #bg-container {
@@ -41,7 +41,7 @@ body {
 }
 #excerpt {
   margin-top: 20px;
-  margin-bottom:20px;
+  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -56,25 +56,17 @@ body {
   color: black;
   border: 2px solid black;
   text-decoration: none;
-  font-size: 85%;
-  margin-top: 20px;
+  font-size: 80%;
 }
 
-.btn.random {
-  margin-right: 10px;
-}
-
-.btn.leave {
-  margin-left:10px;
-}
-
-#desc, #tags {
+#desc,
+#tags {
   margin-top: 20px;
 }
 
 #btns-container {
   margin-top: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 .btn-container {
   margin-top: 20px;

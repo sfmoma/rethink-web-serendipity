@@ -1,13 +1,16 @@
 * {
   margin: 0px;
-  padding: 0px; }
+  padding: 0px;
+}
 
 html,
 body {
+  min-height: 400px;
   height: 100%;
   text-align: center;
   font-family: courier;
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 #bg-container {
   /* Full height */
@@ -16,7 +19,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 100px; }
+  padding-top: 100px;
+}
 
 .fuzzy-container {
   padding: 10px;
@@ -25,22 +29,27 @@ body {
   background-color: rgba(255, 255, 255, 0.75);
   box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.75);
   display: inline-block;
-  max-width: 400px; }
+  max-width: 400px;
+}
 
 #title {
-  max-width: 400px; }
+  max-width: 400px;
+}
 
 #author {
-  margin-top: 8px; }
+  margin-top: 8px;
+}
 
 #excerpt {
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+}
 
 #message-box {
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+}
 
 .btn {
   background-color: white;
@@ -48,34 +57,35 @@ body {
   color: black;
   border: 2px solid black;
   text-decoration: none;
-  font-size: 85%;
-  margin-top: 20px; }
+  font-size: 80%;
+}
 
-.btn.random {
-  margin-right: 10px; }
-
-.btn.leave {
-  margin-left: 10px; }
-
-#desc, #tags {
-  margin-top: 20px; }
+#desc,
+#tags {
+  margin-top: 20px;
+}
 
 #btns-container {
   margin-top: 40px;
-  margin-bottom: 20px; }
+  margin-bottom: 40px;
+}
 
 .btn-container {
-  margin-top: 20px; }
+  margin-top: 20px;
+}
 
 a.link {
-  color: black; }
+  color: black;
+}
 
 a.link:hover,
 a.link:visited {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 #footer {
   margin-top: 40px;
-  font-size: 60%; }
+  font-size: 60%;
+}
 
 /*# sourceMappingURL=styles.css.map */
