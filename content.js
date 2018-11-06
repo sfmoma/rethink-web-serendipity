@@ -48,7 +48,7 @@ $(function() {
     }
 
     var leaveHTML =
-      "<div class='btn-container'><a class='btn leave' href='#' data-leave-id='" +
+      "<div class='btn-container' id='btn-container-leave'><a class='btn leave' href='#' data-leave-id='" +
       currentArticleId +
       "'>Leave me for the next visitor!</a></div>";
 
@@ -74,6 +74,9 @@ $(function() {
   // write the ID and timestamp to txt file
   $(document).on("click", "a.leave", function() {
     var leaveID = $(this).data("leave-id");
+    $("#btn-container-leave").html(
+      "<p class='success-msg'>Thank you for sharing.</p>"
+    );
 
     $.post(
       "php/handleLeave.php",
