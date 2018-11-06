@@ -57,14 +57,14 @@ $(function() {
       "url(" + currentArticle.img_url + ")"
     );
     $("#title").html(
-      "<h2><a href='" +
+      "<a href='" +
         currentArticle.url +
-        "' target='_blank' class='link'>" +
+        "' target='_blank' tabindex=0 class='link'>" +
         currentArticle.title +
-        "</a></h2>"
+        "</a>"
     );
-    $("#author").html("<p>By " + currentArticle.author + "</p>");
-    $("#excerpt").html("<p>" + currentArticle.excerpt + "</p>");
+    $("#author").html("By " + currentArticle.author);
+    $("#excerpt").html(currentArticle.excerpt);
     $("#btns-container").html(
       '<div class="btn-container"><a class="btn random" href="index.html?ra=1">View a random article</a></div>' +
         leaveHTML

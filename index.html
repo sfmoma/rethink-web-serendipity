@@ -33,18 +33,25 @@
     <link href="styles.css" rel="stylesheet" type="text/css" media="all">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="content.js"></script>
-
   </head>
 
   <body>
       <div id="bg-container">
           <div class="fuzzy-container">
-              <div id="message-box"></div>
-              <div id="title"></div>
-              <div id="author"></div>
-              <div id="excerpt"></div>
-              <div id="btns-container"></div>
-              <div id="tags"><p>This prototype is part of the <a class="link" href="https://openspace.sfmoma.org/series/rethink-web/" target="_blank">Rethink:Web series on Open Space</a></p></div>
+            <main>
+              <article class="post-excerpt">
+                <p id="message-box" tabindex=0></p>
+                <h1 id="title" tabindex=0></h1>
+                <p id="author" tabindex=0></p>
+                <p id="excerpt" tabindex=0></p>
+              </article>
+            </main>
+            <nav>
+                <div id="btns-container"></div>
+            </nav>
+            <footer role="contentinfo">
+                <p tabindex=0>This prototype is part of the <a class="link" href="https://openspace.sfmoma.org/series/rethink-web/" target="_blank">Rethink:Web series on Open Space</a></p>
+            </footer>
           </div>
       </div>
   </body>
